@@ -9,7 +9,7 @@ p, h1 {
 }
 #topbar {
   padding: 10px 0px;
-    background-color: ##ff9dab;
+    background: #ff9dab;
     position: fixed;
     width: 100%;
     top: 0;
